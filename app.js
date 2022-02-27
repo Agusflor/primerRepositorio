@@ -38,6 +38,7 @@ switch (accion) {
     default:
         console.log('Acción no permitida');
         break;
+        
 }
 
  
