@@ -103,5 +103,7 @@ module.exports={
        return null;
     }
 }
-
+limpiar = ()=>{
+    
+}
 //información ju
